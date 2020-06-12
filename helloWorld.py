@@ -21,5 +21,5 @@ y = 123.0
 isinstance(y, int)
 
 print(y)
-
+print(x)
 
